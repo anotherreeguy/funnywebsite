@@ -1,0 +1,2 @@
+# funnywebsite
+quick website
